@@ -1,0 +1,10 @@
+启动redis
+
+/usr/local/redis-4.0.14/src/redis-server /usr/local/redis-4.0.14/redis.conf
+
+
+
+
+
+
+
